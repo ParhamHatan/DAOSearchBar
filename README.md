@@ -10,14 +10,12 @@ So, heres the DAOSearchBar.
 ## Requirement ##
 - iOS 9.0 up
 
-- Swift 3.0 up (Support Swift 4.0)
-
 - XCode 8 up
 
 ## Installation ##
 ### CocoaPods ###
 ```
-pod 'DAOSearchBar', '~> 1.2.5'
+pod 'DAOSearchBar', :git => 'https://github.com/ParhamHatan/DAOSearchBar.git'
 ```
 ## Usage ##
 ### Search bar without delegate ###
